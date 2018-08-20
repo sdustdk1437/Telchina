@@ -3,3 +3,4 @@ I love git
 Git has a mutable index called stage
 My stupid boss still prefers SVN
 Creat a new branch is quick
+Creat a new branch is quick and simple
