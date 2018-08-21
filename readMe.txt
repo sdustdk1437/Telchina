@@ -8,3 +8,5 @@ My stupid boss still prefers SVN
 
 Creat a new branch is quick and simple
 >>>>>>> featurel
+
+branch manage
